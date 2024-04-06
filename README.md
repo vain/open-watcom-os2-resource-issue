@@ -41,3 +41,21 @@ file as` and specify `hello.exe` as the target.
 
 This newly created `hello.exe` runs, shows the empty window, and a click
 on the menu item properly pops up a dialog.
+
+# Screenshots
+
+## Resource Workshop
+
+[![version.jpg](t/version.jpg.jpg)](screenshots/version.jpg)
+
+[![resource-workshop.jpg](t/resource-workshop.jpg.jpg)](screenshots/resource-workshop.jpg)
+
+[![resource-workshop-file-open.jpg](t/resource-workshop-file-open.jpg.jpg)](screenshots/resource-workshop-file-open.jpg)
+
+[![resource-workshop-save-as.jpg](t/resource-workshop-save-as.jpg.jpg)](screenshots/resource-workshop-save-as.jpg)
+
+## Borland version running on OS/2 2.1
+
+[![window1.jpg](t/window1.jpg.jpg)](screenshots/window1.jpg)
+
+[![window2.jpg](t/window2.jpg.jpg)](screenshots/window2.jpg)
