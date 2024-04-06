@@ -13,7 +13,8 @@ then `Open directory...`. A sample dialog window is supposed to appear.
 A logfile `hello.log` will be created in the current directory to store
 the return value of `WinDlgBox()`.
 
-That dialog does not appear.
+The window appears, including the menu bar, but the dialog does not
+appear.
 
 When run on OS/2 2.1, the program just crashes. On OS/2 Warp 4, we can
 see in the `hello.log` logfile that the return value of `WinDlgBox()` is
