@@ -16,9 +16,11 @@ the return value of `WinDlgBox()`.
 The window appears, including the menu bar, but the dialog does not
 appear.
 
-When run on OS/2 2.1, the program just crashes. On OS/2 Warp 4, we can
-see in the `hello.log` logfile that the return value of `WinDlgBox()` is
-`DID_ERROR`.
+On OS/2 2.1, the program just crashes.
+
+On OS/2 Warp 4, it does not crash but does not open the dialog, either.
+We can see in the `hello.log` logfile that the return value of
+`WinDlgBox()` is `DID_ERROR`.
 
 # Comparison with Borland C++ for OS/2 Version 2.0
 
