@@ -45,18 +45,20 @@ on the menu item properly pops up a dialog.
 
 # Screenshots
 
+## Watcom version crashing on OS/2 2.1
+
+[![screenshots/watcom-crash1.jpg](t/screenshots/watcom-crash1.jpg.jpg)](screenshots/watcom-crash1.jpg)
+[![screenshots/watcom-crash2.jpg](t/screenshots/watcom-crash2.jpg.jpg)](screenshots/watcom-crash2.jpg)
+[![screenshots/watcom-crash3.jpg](t/screenshots/watcom-crash3.jpg.jpg)](screenshots/watcom-crash3.jpg)
+
+## Borland version running properly on OS/2 2.1
+
+[![screenshots/borland-success1.jpg](t/screenshots/borland-success1.jpg.jpg)](screenshots/borland-success1.jpg)
+[![screenshots/borland-success2.jpg](t/screenshots/borland-success2.jpg.jpg)](screenshots/borland-success2.jpg)
+
 ## Resource Workshop
 
-[![version.jpg](t/version.jpg.jpg)](screenshots/version.jpg)
-
-[![resource-workshop.jpg](t/resource-workshop.jpg.jpg)](screenshots/resource-workshop.jpg)
-
-[![resource-workshop-file-open.jpg](t/resource-workshop-file-open.jpg.jpg)](screenshots/resource-workshop-file-open.jpg)
-
-[![resource-workshop-save-as.jpg](t/resource-workshop-save-as.jpg.jpg)](screenshots/resource-workshop-save-as.jpg)
-
-## Borland version running on OS/2 2.1
-
-[![window1.jpg](t/window1.jpg.jpg)](screenshots/window1.jpg)
-
-[![window2.jpg](t/window2.jpg.jpg)](screenshots/window2.jpg)
+[![screenshots/resource-workshop-version.jpg](t/screenshots/resource-workshop-version.jpg.jpg)](screenshots/resource-workshop-version.jpg)
+[![screenshots/resource-workshop.jpg](t/screenshots/resource-workshop.jpg.jpg)](screenshots/resource-workshop.jpg)
+[![screenshots/resource-workshop-file-open.jpg](t/screenshots/resource-workshop-file-open.jpg.jpg)](screenshots/resource-workshop-file-open.jpg)
+[![screenshots/resource-workshop-save-as.jpg](t/screenshots/resource-workshop-save-as.jpg.jpg)](screenshots/resource-workshop-save-as.jpg)
